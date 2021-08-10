@@ -1,15 +1,25 @@
 {
-  "name": "react-seal"
-  , "version": "0.0.1"
-  , "license": "MIT"
-
-  , "description": "React components library to build data dashboards"
-  , "keywords": ["reactjs", "react-components", "dashboard", "clojurescript"]
-  , "homepage": "https://github.com/alchami/react-seal"
-  , "repository": {"type": "git", "url": "https://github.com/alchami/react-seal.git"}
-
-  , "devDependencies": {
+  "name": "react-seal",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "Collection expérimentale de composants React dédiés à la construction de tableaux de bord",
+  "keywords": [
+    "reactjs",
+    "react-components",
+    "dashboard",
+    "clojurescript",
+    "french",
+    "français"
+  ],
+  "homepage": "https://github.com/alchami/react-seal",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alchami/react-seal.git"
+  },
+  "devDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
     "shadow-cljs": "2.15.3"
-  }
-  , "dependencies": {}
+  },
+  "dependencies": {}
 }
